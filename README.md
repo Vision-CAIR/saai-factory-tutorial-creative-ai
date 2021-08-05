@@ -1,4 +1,4 @@
-# saai-factory-tutorial-creative-ai
+# SAAI Factory tutorial: Creative AI for visual art and music
 
 
 ### Link to slides
