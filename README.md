@@ -2,7 +2,7 @@
 
 
 ### Link to slides
-Here is the link to slides: and (Add link to slides after all the presentation is complete)
+Link to slides will be updated here.
 
 
 ### Link to demo notebooks
