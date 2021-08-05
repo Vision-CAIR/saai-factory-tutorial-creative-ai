@@ -6,7 +6,7 @@ Here is the link to slides: and (Add link to slides after all the presentation i
 
 
 ### Link to demo notebooks
-1. [Style Transfer(add link - Isha)]()
+1. [Style Transfer(Isha)](https://colab.research.google.com/drive/1KkVJptoe6EYfuEtOu6HeqbP0AFJ_ENG1?usp=sharing)
 2. [StyleCAN (Divyansh)](https://colab.research.google.com/drive/1wqgzp2IMOXETQCOQl9-h9qJIEA1-bVLM?usp=sharing)
 3. [MusicCAN (Shyma)](https://colab.research.google.com/drive/1NZzRDQt4QSZscwPHiYG1Im6-C61NR_2c)
 4. [EmoStyleGAN (Arnab)](https://colab.research.google.com/drive/1JhI3vnylEg-f0uPiq1uES0UgmB2Eqkjo?usp=sharing)
