@@ -8,7 +8,7 @@ Here is the link to slides: and (Add link to slides after all the presentation i
 ### Link to demo notebooks
 1. [Style Transfer(add link - Isha)]()
 2. [StyleCAN (Divyansh)](https://colab.research.google.com/drive/1wqgzp2IMOXETQCOQl9-h9qJIEA1-bVLM?usp=sharing)
-3. [MusicCAN](https://drive.google.com/file/d/1NZzRDQt4QSZscwPHiYG1Im6-C61NR_2c/view?usp=sharing)
+3. [MusicCAN (Shyma)](https://drive.google.com/file/d/1NZzRDQt4QSZscwPHiYG1Im6-C61NR_2c/view?usp=sharing)
 4. [EmoStyleGAN (Arnab)](https://colab.research.google.com/drive/1JhI3vnylEg-f0uPiq1uES0UgmB2Eqkjo?usp=sharing)
 5. [Text2Art(Kilich)](https://colab.research.google.com/drive/1vAuc-PhZFhuS9byyiJHHCPWHkyt1ghj8?usp=sharing)
 6. [Image Animation (Divyansh)](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=Oxi6-riLOgnm)
