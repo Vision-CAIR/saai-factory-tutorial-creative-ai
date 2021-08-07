@@ -2,7 +2,7 @@
 
 
 ### Link to slides
-[Click Here to see the presentation!](https://docs.google.com/presentation/d/1oh-Qm5INJpnTNPXCyu838dX8_2Td6Kz34xoskamIE1Q/edit?usp=sharing)
+[Click here to see the presentation!](https://docs.google.com/presentation/d/1oh-Qm5INJpnTNPXCyu838dX8_2Td6Kz34xoskamIE1Q/edit?usp=sharing)
 
 
 ### Link to demo notebooks
