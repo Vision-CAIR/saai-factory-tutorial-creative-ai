@@ -1,5 +1,7 @@
 # SAAI Factory tutorial: Creative AI for visual art and music
 
+This repository contains the link to slides and demo notebooks presented in the tutorial "Creative AI for visual art and music" at the SAAI factory symposium/kick-off.
+
 
 ### Link to slides
 [Click here to see the presentation!](https://docs.google.com/presentation/d/1oh-Qm5INJpnTNPXCyu838dX8_2Td6Kz34xoskamIE1Q/edit?usp=sharing)
