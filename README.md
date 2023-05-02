@@ -14,3 +14,11 @@ This repository contains the link to slides and demo notebooks presented in the 
 4. [EmoStyleGAN (Arnab)](https://colab.research.google.com/drive/1JhI3vnylEg-f0uPiq1uES0UgmB2Eqkjo?usp=sharing)
 5. [Text2Art(Kilich)](https://colab.research.google.com/drive/1vAuc-PhZFhuS9byyiJHHCPWHkyt1ghj8?usp=sharing)
 6. [Image Animation (Divyansh)](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=Oxi6-riLOgnm)
+7. [Video Generation (Xiaoqian)] (https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb)
+8. [Video Generation (Xiaoqian)] (https://colab.research.google.com/github/mayuelala/FollowYourPose/blob/main/quick_demo.ipynb)
+9. [Video Generation Slides (Xiaoqian)] (https://docs.google.com/presentation/d/1QtT2YOzUPP81GxKHIoTKnk9WJRVVMUaUMRoK9BQAKW4/edit?usp=sharing)
+
+Text-to-Image generation tools:
+1. DallE-2
+2. Midjourney
+3. Stable Diffusion
